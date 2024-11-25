@@ -1,0 +1,4 @@
+npm i axios
+npm install react-scripts --save
+npm i react-router-dom --save
+npm i bootstrap
